@@ -7,7 +7,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kar-nV&show_icons=true&count_private=true&hide_border=true&title_color=90EE90&icon_color=66CDAA&text_color=c9d1d9&bg_color=0d1117" alt="Karen Souza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kar-nV&layout=compact&hide_border=true&title_color=32CD32&text_color=90EE90&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kar-nV&layout=compact&hide_border=true&title_color=90EE90&text_color=90EE90&bg_color=0d1117" />
 </div>
 
 
