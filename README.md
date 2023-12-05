@@ -25,14 +25,14 @@
  
  ### Main skills:
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![R Language](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Tableu](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
