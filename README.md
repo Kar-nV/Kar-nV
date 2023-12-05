@@ -19,7 +19,6 @@
 
 <div>&nbsp;
 <p> I started on web development but I find myself in the <strong>Data Science and Data Analysis</strong>.&nbsp;</p> 
-<p>Currently, I work as an IT Intern at Saint-Gobain Canalização - Brasil dealing with the SAP Materials Management Module and admistrative task.</p>
 <p>I love working with <strong>Data Driven Decision Making</strong> and <strong>Machine Learning</strong> algoritm types. I am improving myself every day to become an excellent Data Scientist. </p>
  
  </div>
