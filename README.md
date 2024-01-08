@@ -16,7 +16,7 @@
  </div>
 
 <div>&nbsp;
-<p> I started on web development but I find myself in the <strong>Data Science and Data Analysis</strong>.&nbsp;</p> 
+<p> I am fascinated by the dynamic intersection of knowledge and innovative technology in the Data field. I started on web development but I find myself in the <strong>Data Science and Data Analysis</strong>.&nbsp;</p> 
 <p>I love working with <strong>Data Driven Decision Making</strong> and <strong>Machine Learning</strong> algoritm types. I am improving myself every day to become an excellent Data Scientist. </p>
  
  </div>
@@ -27,7 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
 
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
