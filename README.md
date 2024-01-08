@@ -18,6 +18,10 @@
 <div>&nbsp;
 <p> I am fascinated by the dynamic intersection of knowledge and innovative technology in the Data field. I started on web development but I find myself in the <strong>Data Science and Data Analysis</strong>.&nbsp;</p> 
 <p>I love working with <strong>Data Driven Decision Making</strong> and <strong>Machine Learning</strong> algoritm types. I am improving myself every day to become an excellent Data Scientist. </p>
+
+<p> I believe that there are no limitations in anything that I cannot learn and achieve excellence. Eager to contribute on projects and collaborate with like-minded professionals, I am driven by a continuous quest for learning and pushing the boundaries of what's possible in the realm of data science.
+
+Feel free to conect and making projects with me :)</p>
  
  </div>
  
