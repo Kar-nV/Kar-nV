@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90ee90&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+learning+path!;What+a+pleasure+to+meet+you,+I'm+Karen+Souza.;I+have+23+years+old+and+I'm+from+Brazil.;+I'm+a+student+of+Systems+Development;and+a+Data+Analysis+lover+🥰+;Enjoy+my+projects!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90ee90&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+learning+path!;What+a+pleasure+to+meet+you,+I'm+Karen+Souza.;I+have+23+years+old+and+I'm+from+Brazil.;+I'm+a+student+of+Systems+Development;Enjoy+my+projects!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -16,10 +16,10 @@
  </div>
 
 <div>&nbsp;
-<p> I am fascinated by the dynamic intersection of knowledge and innovative technology in the Data field. I started on web development but I find myself in the <strong>Data Science and Data Analysis</strong>.&nbsp;</p> 
-<p>I love working with <strong>Data Driven Decision Making</strong> and <strong>Machine Learning</strong> algoritm types. I am improving myself every day to become an excellent Data Scientist. </p>
-
-<p> I believe that there are no limitations in anything that I cannot learn and achieve excellence. Eager to contribute on projects and collaborate with like-minded professionals, I am driven by a continuous quest for learning and pushing the boundaries of what's possible in the realm of data science.
+ 
+<p> I am an IT associate degree student, passionate about technology and innovation. My journey, I gained practical experience in hardware maintenance, IT contract control and data analysis, totaling almost 3 years of knowledge in the area.&nbsp;</p> 
+<p>Currently, my focus is on Back-End Web development, exploring technologies such as PHP, Node.JS, Python, SQL, AWS and PostgreSQL. I am constantly looking for improvement and new challenges that allow me to grow professionally.</p>
+<p> Empathy and motivation are characteristics that define me. I believe that with dedication and curiosity, there are no limits to what I can learn and achieve. I'm always open to connections and collaborating on innovative projects
 
 Feel free to conect and making projects with me :)</p>
  
@@ -35,8 +35,6 @@ Feel free to conect and making projects with me :)</p>
 
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![R Language](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Tableu](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 
 <div align="center">
