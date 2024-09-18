@@ -27,9 +27,9 @@ Feel free to conect and making projects with me :)</p>
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=SQL&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
 
 
 ### Studying in this moment:
