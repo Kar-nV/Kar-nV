@@ -9,11 +9,7 @@
 </div>
 
 
-<div align="center"> 
-
-<a href = "mailto:contato.kar.nsouza@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br> <a href="https://www.linkedin.com/in/kar-nv/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
-
-</a>
+<div align="center"> <a href = "mailto:contato.kar.nsouza@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a> <a href="https://www.linkedin.com/in/kar-nv/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"> </a>
 
  </div>
 
