@@ -15,8 +15,8 @@
 
 <div>&nbsp;
  
-<p> I am an IT associate degree student, passionate about technology and innovation. My journey, I gained practical experience in hardware maintenance, IT contract control and data analysis, totaling almost 2 years of knowledge in the area.&nbsp;</p> 
-<p>Currently, my focus is on Back-End Web development, exploring technologies such as Java, Python, SQL, AWS and PostgreSQL. I am constantly looking for improvement and new challenges that allow me to grow professionally.</p>
+<p> I am an IT associate degree student, passionate about technology and innovation.
+<p>Currently, my focus is on exploring languages such as Java, Python and SQL. Also learning AWS and PostgreSQL. I am constantly looking for improvement and new challenges that allow me to grow professionally.</p>
 <p> Empathy and motivation are characteristics that define me. I believe that with dedication and curiosity, there are no limits to what I can learn and achieve. I'm always open to connections and collaborating on innovative projects
 
 Feel free to conect and making projects with me :)</p>
